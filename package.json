@@ -1,0 +1,13 @@
+{
+  "name": "launchpad",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/node": "^10.9.2",
+    "dts-gen": "^0.5.7",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.1"
+  },
+  "dependencies": {
+    "midi": "^0.9.5"
+  }
+}
